@@ -5,8 +5,6 @@ This is an empty GIT repository for starting a .NET project. It contains:
 - A `LICENSE` file with the MIT license
 - An extended `.gitignore` file for Visual Studio
 - A `.github` folder with some GitHub configuration and workflow
-- A `docs` folder for a docfx generated developer reference
-- A `src` folder for the solution source code
 
 ## How to start
 
@@ -78,7 +76,7 @@ There are some things to configure in your GitHub repository:
 - Dependabot custom configuration
 - CodeQL scanning
 - GitHub Pages should use the `docs` folder and refresh on a commit to the 
-main branch
+main branch (if it doesn't exist, create it manually).
 
 ## Done!
 
