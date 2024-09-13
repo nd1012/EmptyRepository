@@ -55,8 +55,7 @@ CodeQL scan.
 
 ##### docfx
 
-Open the `.github/workflows/docfx.yml` file and replace `PROJECTNAME` with 
-your projects name.
+There are no changes required, the docfx workflow should be fine.
 
 ##### .NET
 
